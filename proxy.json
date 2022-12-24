@@ -1,0 +1,23 @@
+{
+"Proxy 1": {"Proxy": "94.23.71.93:7497", "Country": "France", "Region": "Hauts-de-France", "City": "Gravelines"},
+"Proxy 2": {"Proxy": "157.90.75.16:7497", "Country": "Germany", "Region": "Saxony", "City": "Falkenstein"},
+"Proxy 3": {"Proxy": "138.68.124.120:7497", "Country": "Germany", "Region": "Hesse", "City": "Frankfurt am Main"},
+"Proxy 4": {"Proxy": "47.243.95.228:10080", "Country": "Hong Kong", "Region": "Central and Western District", "City": "Central"},
+"Proxy 5": {"Proxy": "139.59.193.106:7497", "Country": "Singapore", "Region": "South West", "City": "Singapore"},
+"Proxy 6": {"Proxy": "47.98.165.241:7891", "Country": "Singapore", "Region": "North East", "City": "Singapore"},
+"Proxy 7": {"Proxy": "209.141.55.146:10388", "Country": "Canada", "Region": "Quebec", "City": "Beauharnois"},
+"Proxy 8": {"Proxy": "103.111.225.93:1090", "Country": "Bangladesh", "Region": "Chittagong", "City": "Chittagong"},
+"Proxy 9": {"Proxy": "37.18.73.94:5566", "Country": "Netherlands", "Region": "Flevoland", "City": "Dronten"},
+"Proxy 10": {"Proxy": "193.239.146.99:3080", "Country": "United States", "Region": "California", "City": "Los Angeles"},
+"Proxy 11": {"Proxy": "125.141.133.99:5566", "Country": "United States", "Region": "Washington", "City": "Seattle"},
+"Proxy 12": {"Proxy": "91.92.209.67:1080", "Country": "Iran", "Region": "Tehran", "City": "Tehran"},
+"Proxy 13": {"Proxy": "93.187.161.41:1080", "Country": "Armenia", "Region": "Yerevan", "City": "Yerevan"},
+"Proxy 14": {"Proxy": "171.241.22.27:5211", "Country": "Vietnam", "Region": "Hanoi", "City": "Hanoi"},
+"Proxy 15": {"Proxy": "166.62.52.25:42657", "Country": "United States", "Region": "Arizona", "City": "Tempe"},
+"Proxy 16": {"Proxy": "89.41.182.153:17825", "Country": "India", "Region": "Telangana", "City": "Hyderabad"},
+"Proxy 17": {"Proxy": "61.135.30.54:7302", "Country": "China", "Region": "Beijing", "City": "Beijing"},
+"Proxy 18": {"Proxy": "120.236.115.181:20005", "Country": "Japan", "Region": "Chiba", "City": "Chiba"},
+"Proxy 19": {"Proxy": "102.36.127.249:1080", "Country": "South Africa", "Region": "Mpumalanga", "City": "Nelspruit"},
+"Proxy 20": {"Proxy": "103.111.225.49:1090", "Country": "Bangladesh", "Region": "Chittagong", "City": "Chittagong"},
+"Proxy 21": {"Proxy": "178.32.98.97:19366", "Country": "France", "Region": "Hauts-de-France", "City": "Gravelines"}
+}
